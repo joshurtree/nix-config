@@ -1,0 +1,3 @@
+#!/bin/sh
+bash --rcfile nix_setup.sh
+
